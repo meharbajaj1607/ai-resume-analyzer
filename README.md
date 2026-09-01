@@ -31,11 +31,11 @@ Missing Skills
 Recommended Keywords
 Resume Improvement Suggestions
 START
-  ↓
+  |
 User selects target
-  ↓
+  |
 Company-specific OR General
-  ↓
+  |
 If company-specific → enter company
   ↓
 User selects role
