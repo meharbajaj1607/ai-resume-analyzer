@@ -19,8 +19,6 @@ python-dotenv
 Run Locally
 pip install -r requirements.txt streamlit run app.py
 
-Create a .env file: GEMINI_API_KEY=your_api_key
-
 Output
 The analyzer provides:
 
@@ -60,6 +58,11 @@ Display suggestions
   |
 END
 ```
+Requirments:
+streamlit
+pypdf
+google-genai
+python-dotenv
 
 AI returns:
 1. Overall Assessment
@@ -68,3 +71,8 @@ AI returns:
 4. Missing Skills
 5. Recommended Keywords
 6. Resume Improvement Suggestions
+
+
+## Use this link to analyse your resume
+https://lets-analyze-resume.streamlit.app/
+
